@@ -67,4 +67,4 @@ Improve problem-solving abilities.
 Prepare for programming contests such as ICPC, Codeforces, AtCoder, LeetCode, and HackerRank.
 Build a solid foundation in algorithms and data structures.
 Support interview preparation for software engineering roles.
-Believe in your team, believe in your process, and believe in yourself. 🚀
+Believe in your team, believe in your process, and believe in yourself. 🚀 :)
